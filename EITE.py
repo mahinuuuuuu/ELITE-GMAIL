@@ -1,0 +1,2 @@
+import mahin
+Mahin.main()
